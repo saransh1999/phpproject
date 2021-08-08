@@ -29,18 +29,23 @@
             </div>
         </nav>
     </div>
+    <section id="home">
+        <h1>Welcome to MedicoHelp.com</h1>
+        <span>First place to come when you for your assistance reguarding medical facilites. Providing the best
+            according to your need for better medical experience and life insurance.
+        </span>
+        <div id="boxes">        
+            <div class="box center"><img src="img/consultancy.jpg" alt="">Consultancy</div>
+            <div class="box center"><img src="img/perfect-order.jpg" alt="">Order Equipment</div>
+            <div class="box center"><img src="img/life-insurance.jpg" alt="">Life Insurance</div>
+        </div>
+    </section>
+    <footer class="fixed_footer">
+  <div class="content">
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis ducimus nemo quo totam neque quis soluta nisi obcaecati aliquam saepe dicta adipisci blanditiis quaerat earum laboriosam accusamus nesciunt! Saepe ex maxime enim asperiores nisi. Obcaecati nostrum nobis laudantium aliquam commodi veniam magni similique ullam quis pariatur voluptatem harum id error.</p>
+  </div>
+</footer>
 </body>
-<section id="home">
-    <h1>Welcome to MedicoHelp.com</h1>
-    <span>First place to come when you for your assistance reguarding medical facilites. Providing the best
-        according to your need for better medical experience and life insurance.
-    </span>
-    <div id="boxes">        
-        <div class="box center"><img src="img/consultancy.jpg" alt="">Consultancy</div>
-        <div class="box center"><img src="img/perfect-order.jpg" alt="">Order Equipment</div>
-        <div class="box center"><img src="img/life-insurance.jpg" alt="">Life Insurance</div>
-    </div>
-</section>
 
 
 </html>
