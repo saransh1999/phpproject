@@ -89,8 +89,21 @@
     z-index: -2;
     background-size: cover;
     background-position: center;
-    /* opacity: 40%; */
+    opacity: 40%;
 }
+/* .body::after {
+    content: "";
+    background-color: white;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -3;
+    background-size: cover;
+    background-position: center;
+    opacity: 100%;
+} */
 
 #home {
     display: flex;
