@@ -89,7 +89,7 @@
     z-index: -2;
     background-size: cover;
     background-position: center;
-    opacity: 40%;
+    /* opacity: 40%; */
 }
 
 #home {
